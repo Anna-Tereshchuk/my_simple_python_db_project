@@ -1,0 +1,10 @@
+{
+  "dbname": "homework1_DQE",
+  "user": "postgres",
+  "password": "123",
+  "host": "localhost",
+  "port": "5432",
+  "students.xlsx": "E:\\Anna_tereshchuk_dqe\\data\\students.xlsx",
+  "students.csv": "E:\\Anna_tereshchuk_dqe\\data\\students.csv",
+  "cleaned_students.csv": "E:\\Anna_tereshchuk_dqe\\data\\cleaned_students.csv"
+}
